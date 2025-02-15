@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AutoCompyute
-description: with background image
+description: Lightweight Autograd Engine in Python
 img: assets/img/autocompyute.jpg
 importance: 1
 category: work

@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - dakofler/comypute
+  - dakofler/auto_compyute
   - dakofler/vision_transformer
   - dakofler/simple_tokenizers
   - dakofler/Swarmalators
