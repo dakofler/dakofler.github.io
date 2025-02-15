@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-welcome-to-my-homepage",
+        },{id: "post-welcome",
+      
+        title: "Welcome!",
+      
+      description: "Hello and welcome to my Homepage!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/welcome/";
+        
+      },
+    },{id: "news-welcome-to-my-homepage",
           title: 'Welcome to my Homepage!',
           description: "",
           section: "News",},{id: "projects-autocompyute",
