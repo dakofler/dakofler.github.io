@@ -42,12 +42,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-autocompyute",
           title: 'AutoCompyute',
-          description: "Lightweight Autograd Engine in Python",
+          description: "Lightweight Autograd Engine in Pure Python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-vision-transformer",
           title: 'Vision Transformer',
-          description: "Implementation of the vision transformer architecture in PyTorch",
+          description: "Implementation of the Vision Transformer Architecture in PyTorch",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
