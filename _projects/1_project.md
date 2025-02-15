@@ -4,7 +4,7 @@ title: AutoCompyute
 description: Lightweight Autograd Engine in Python
 img: assets/img/autocompyute.jpg
 importance: 1
-category: work
+category: Fun
 related_publications: true
 ---
 

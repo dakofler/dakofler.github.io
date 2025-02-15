@@ -4,7 +4,7 @@ title: Vision Transformer
 description: Implementation of the vision transformer architecture in PyTorch
 img: assets/img/vit.jpg
 importance: 2
-category: work
+category: Uni
 giscus_comments: true
 ---
 
