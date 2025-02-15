@@ -1,11 +1,10 @@
 ---
 layout: page
 title: AutoCompyute
-description: Lightweight Autograd Engine in Python
+description: Lightweight Autograd Engine in Pure Python
 img: assets/img/autocompyute.jpg
 importance: 1
 category: Fun
-related_publications: true
 ---
 
 AutoCompyute is a lightweight deep learning library that provides automatic differentiation using only NumPy as the backend for computation (CuPy can be used as a drop-in replacement for NumPy). It is designed for simplicity and performance and enables you to train deep learning models with minimal dependencies while leveraging GPU acceleration. The package supports:
