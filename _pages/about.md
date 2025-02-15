@@ -2,18 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://anexia.com/en/'>Data Scientist at Anexia</a>. I like tinkering with neural networks.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  more_info:
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Data Scientist from Austria working at [Anexia](https://anexia.com/en/). In my professional experience I have worked on various projects where I developed, trained, evaluated, and deployed machine learning models for various tasks (classification, regression, anomaly-detection, image-translation, etc.) and built full-stack applications around Large Language Models (Retrieval Augrmented Generation, LLM-Agents, etc.).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my studies at the Carinthia University of Applied Sciences I fell in love with machine learning as it combines my primary interests, namely Mathematics and Computer Science. My main interests lie in the ideas and concepts behind neural network architectures, as well as the engineering behind training large models. In my free time, I work on open-source software. Currently, I am developing my own dynaimc autograd-engine to train deeplearning models ranging from shallow NNs to Transformers. My aim is to create a transparent and easy-to-understand implementation that can be used as reference material in education.
